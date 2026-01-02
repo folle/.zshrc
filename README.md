@@ -3,7 +3,5 @@
 
 Requires:  
 ```
-brew install libfido2
-brew install openssh  
-brew install theseal/ssh-askpass/ssh-askpass
+brew install libfido2 openssh theseal/ssh-askpass/ssh-askpass
 ```
